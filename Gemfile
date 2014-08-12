@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '4.1.4'
+gem 'jquery-rails'
 
 group :development do
 	gem 'rspec-rails', '~> 3.0.2'
